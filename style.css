@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rethink+Sans:ital,wght@0,400..800;1,400..800&display=swap');
+
+
+html {
+    font-family: "Rethink Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+ 
+
+body {
+    background-color: #FFF8ED;
+}
+
+#h1 {
+    font-size: 300%;
+  }
+
+.email {
+    
+    text-align: center;
+}
+
+.email1 {
+    font-style: italic;
+}
+
