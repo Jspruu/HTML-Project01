@@ -1,0 +1,5 @@
+grid-template-columns defines the structure of columns. 
+grid-template-rows defines the structure of rows. 
+justify-content aligns content horizontally along the main axis of the grid. 
+align-content aligns content vertically along the cross axis of the grid. 
+ row-gap and column-gap introduce spacing between rows and columns respectively
