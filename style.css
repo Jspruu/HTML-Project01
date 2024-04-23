@@ -26,3 +26,22 @@ body {
     font-style: italic;
 }
 
+.container {
+    position: relative;
+}
+
+img {
+    position: absolute;
+    right: 100px;
+    font-size: 18px;
+}
+
+.circle { 
+    float: left;
+    height: 150px;  
+    width: 150px; 
+    border: solid 1px;  
+    border-radius: 50%;  
+    display: inline-block;
+    background: lightblue;
+}
